@@ -21,7 +21,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^2.0.0",
     "jasmine-core": "^2.4.1",
-    "karma": "^0.13.19",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^0.2.2",
     "karma-coverage": "^0.5.3",
     "karma-fixture": "^0.2.5",
